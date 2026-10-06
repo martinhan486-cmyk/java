@@ -29,6 +29,6 @@ public class Homework3 {
         System.out.println("최대값: " + max);
         System.out.println("최소값: " + min);
 
-        sc.close();
+
     }
 }
